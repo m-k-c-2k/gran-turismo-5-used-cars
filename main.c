@@ -17,6 +17,44 @@
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
  * DEALINGS IN THE SOFTWARE.
+ *
+ * This code uses a modified version of the Mersenne Twister program, the
+ * copyright notice for which is given below:
+ * 
+ * Copyright (C) 1997 - 2002, Makoto Matsumoto and Takuji Nishimura,
+ * All rights reserved.                          
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ *   1. Redistributions of source code must retain the above copyright
+ *      notice, this list of conditions and the following disclaimer.
+ *
+ *   2. Redistributions in binary form must reproduce the above copyright
+ *      notice, this list of conditions and the following disclaimer in the
+ *      documentation and/or other materials provided with the distribution.
+ *
+ *   3. The names of its contributors may not be used to endorse or promote 
+ *      products derived from this software without specific prior written 
+ *      permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+ * A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER
+ * OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+ * EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+ * PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+ * PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+ * LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+ * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+ * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ *
+ *
+ * Any feedback is very welcome.
+ * http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/emt.html
+ * email: m-mat@math.sci.hiroshima-u.ac.jp
  ******************************************************************************/
 
 #include <stdint.h>
@@ -2178,8 +2216,6 @@ char *printInfo(const uint32_t i) {
     const int index = idx(i);
     const char *brand = brands[brandIds[index]];
     const char *model = mdl[index];
-    //const int day = i / 12;
-    //const int carNumberInDay = 1 + (i - i % 2) / 2 % 6;
     int colorIndex = 0;
     int j;
     for (j = 0; j < index; j++) {
@@ -2194,27 +2230,9 @@ char *printInfo(const uint32_t i) {
     const int32_t price = intNum + (num - intNum > 0.49999);
     const char *color = colors[colorCodes[colorIndex]];
     char *output = malloc(200);
-    //snprintf(output, 200, "0x%08X\t%d\t%d\t%s\t%s\t%d\t%d\t%s\n", i, day,
-    //         carNumberInDay, brand, model, odo, price, color);
     snprintf(output, 200, "0x%08X\t%d\t%d\t%s\t%s\t%d\t%d\t%s\n", i, brand, model, odo, price, color);
     return output;
 }
-
-/* int main() {
-    FILE *f1 = fopen("list1.txt", "w");
-    FILE *f2 = fopen("list2.txt", "w");
-    fprintf(f1, "Index\tDay\tCar\tMake\tModel\tOdometer (km)\tPrice\tColor\n");
-    fprintf(f2, "Index\tDay\tCar\tMake\tModel\tOdometer (km)\tPrice\tColor\n");
-    uint32_t i;
-    for (i = 0x3FFE7E80; i < 0x3FFE7EA0; i++) {
-        char *info = printInfo(i);
-        fprintf(i % 2 == 0 ? f1 : f2, "%s", info);
-        free(info);
-    }
-    fclose(f1);
-    fclose(f2);
-    return 0;
-} */
 
 int main() {
   FILE *f = fopen("models.txt", "w");
