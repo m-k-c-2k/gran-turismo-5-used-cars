@@ -1,4 +1,4 @@
-Below is the model code list to use with the program.
+Model code list
 
 0. Isuzu 117COUPÉ '68
 1. Alfa Romeo 147 2.0 TWIN SPARK '02
