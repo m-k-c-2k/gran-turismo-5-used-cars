@@ -1,0 +1,821 @@
+0. Isuzu 117COUPÉ '68
+1. Alfa Romeo 147 2.0 TWIN SPARK '02
+2. Nissan 180SX Type X '96
+3. Nissan 300ZX 2seater (Z32) '98
+4. Fiat 500 F '65
+5. Fiat 500 F '65 (with 300.000 or more km)
+6. Alpine A110 1600S '73
+7. Suzuki ALTO WORKS SUZUKI SPORT LIMITED '97
+8. Mazda Atenza Concept '01
+9. Chevrolet Camaro Z28 Coupe '97
+10. Toyota CELICA SS-II (ST202) '97
+11. Chevrolet Chevelle SS 454 '70
+12. Honda CIVIC SiR-II (EG) '93
+13. Renault Sport Clio Renault Sport 2.0 16V '02
+14. Chevrolet Corvette GRAND SPORT (C4) '96
+15. Chevrolet Corvette Stingray L46 350 (C3) '69
+16. Chrysler Crossfire '04
+17. Plymouth Cuda 440 Six Pack '71
+18. Dodge Viper GTS-R Team Oreca Race Car #91 '00
+19. Lotus Elise '00
+20. Nissan Fairlady 240ZG (HS30) '71
+21. Ford Focus RS '02
+22. Ford Ford GT LM Race Car
+23. Mitsubishi FTO GP Version R '97
+24. Alfa Romeo Giulia Sprint GTA 1600 '65
+25. Alfa Romeo Giulia Sprint GTA 1600 '65 (with 300.000 or more km)
+26. Mitsubishi GTO Twin Turbo '95
+27. Nissan GT-R Concept LM Race Car
+28. Subaru IMPREZA Rally Car '03
+29. Subaru IMPREZA WRX STi Prodrive Style '01
+30. Subaru IMPREZA Sedan WRX STi '02
+31. Ford Ka '01
+32. Mitsubishi Lancer Evolution VII GSR '01
+33. Mitsubishi Lancer Evolution VIII GSR '03
+34. Toyota COROLLA LEVIN GT-APEX (AE86) '83
+35. Mini MINI COOPER S '02
+36. Daihatsu MIRA TR-XX Avanzato R '97
+37. Honda NSX-R Prototype LM Race Car
+38. Honda NSX Type S Zero '97
+39. Pontiac Tempest Le Mans GTO '64
+40. Pontiac Vibe GT '03
+41. Honda PRELUDE Type S '96
+42. Nissan PRIMERA 20V '01
+43. Mazda RX-8 Concept LM Race Car
+44. Mazda RX-8 Concept (Type-II) '01
+45. Nissan SILVIA K's (S13) '88
+46. Nissan SILVIA K's AERO (S14) '96
+47. Chevrolet SSR '03
+48. Daihatsu STORIA X4 '00
+49. Pontiac Sunfire GXP Concept '02
+50. Toyota SUPRA RZ '97
+51. Toyota WiLL VS '01
+52. Nissan Fairlady Z Concept LM Race Car
+53. Alfa Romeo 147 GTA '02
+54. Toyota PRIUS G Touring Selection (J) '03
+55. Toyota PRIUS G (J) '02
+56. Dodge Viper GTS-R Team Oreca Race Car #51 '00
+57. Honda BALLADE SPORTS CR-X 1.5i '83
+58. Honda CITY Turbo II '83
+59. Isuzu PIAZZA XE '81
+60. Lancia DELTA S4 Rally Car '85
+61. Mazda Lantis Coupe 2000 Type R '93
+62. Mazda Familia Sedan Sport 20 '02
+63. Mitsubishi ECLIPSE GT '95
+64. Nissan 240RS Rally Car '85
+65. Nissan SKYLINE GTS-R (R31) '87
+66. Nissan PRIMERA 2.0Te '90
+67. Nissan SILEIGHTY '98
+68. Peugeot 205 Turbo 16 Evolution 2 Rally Car '86
+69. Renault 5 Maxi Turbo Rally Car '85
+70. Toyota CELICA XX 2800GT '81
+71. Toyota CELICA 2000GT-R (ST162) '86
+72. Toyota MR2 1600 G-Limited Super Charger '86
+73. Toyota CELICA GT-FOUR RC (ST185) '91
+74. Toyota COROLLA LEVIN BZ-R '98
+75. Toyota SPRINTER TRUENO BZ-R '98
+76. Panoz Esperante GTR-1 Race Car '98
+77. Nissan R390 GT1 Race Car '98
+78. Subaru LEGACY Touring Wagon 2.0GT spec.B '03
+79. Subaru LEGACY B4 2.0GT spec.B '03
+80. Subaru IMPREZA Rally Car '99
+81. Subaru LEGACY Touring Wagon GT-B '96
+82. Subaru LEGACY B4 RSK '98
+83. Blitz LEGACY B4 Blitzen '00
+84. Subaru LEGACY Touring Wagon 3.0R '03
+85. Subaru LEGACY B4 3.0R '03
+86. Honda 1300 Coupe 9 S '70
+87. Honda HSC '03
+88. Honda INSIGHT '99
+89. Honda N360 '67
+90. Honda ODYSSEY '03
+91. Honda S2000 '03
+92. Honda PRELUDE SiR '96
+93. Honda S800 '66
+94. Honda TODAY G '85
+95. Honda BEAT '91
+96. Honda TAKATA DOME NSX '03
+97. Honda RAYBRIG NSX '00
+98. Honda Castrol MUGEN NSX '00
+99. Honda ARTA NSX '00
+100. Honda LOCTITE MUGEN NSX '01
+101. Honda Mobil 1 NSX '01
+102. Autobacs ARTA Garaiya '03
+103. Daihatsu Midget II D type '98
+104. Spoon FIT Race Car '03
+105. Mazda KUSABI Concept '03
+106. Mitsubishi Lancer 1600 GSR '74
+107. Mitsubishi Lancer Evolution GSR '92
+108. Mitsubishi ECLIPSE Spyder GTS '03
+109. Mitsubishi HSR-II Concept '89
+110. Mitsubishi i Concept '03
+111. Nissan BLUEBIRD 1600 Deluxe (510) '69
+112. Nissan CUBE EX (FF/CVT) '02
+113. Nissan March G# '99
+114. Nissan SKYLINE Coupe 350GT '03
+115. Nissan Fairlady Z Roadster (Z33) '03
+116. Nissan XANAVI NISMO GT-R '03
+117. Subaru CUSCO SUBARU ADVAN IMPREZA '03
+118. Suzuki CONCEPT-S2 '03
+119. Toyota ARISTO 3.0V '91
+120. Toyota ARISTO V300 Vertex Edition '00
+121. Toyota bB 1.5Z X Version '00
+122. Toyota CELICA 1600GT (TA22) '70
+123. Toyota ist 1.5S '02
+124. Toyota WOODONE TOM'S SUPRA '03
+125. Autobianchi A112 Abarth '79
+126. Citroën C5 V6 Exclusive '03
+127. Fiat Panda Super i.e. '90
+128. Renault 5 Turbo '80
+129. TVR Cerbera Speed 6 '97
+130. Volkswagen Lupo GTI Cup Car (J) '03
+131. Volkswagen Beetle 1100 Standard (Type-11) '49
+132. Volkswagen Beetle 1100 Standard (Type-11) '49 (with 300.000 or more km)
+133. Subaru IMPREZA Sedan WRX STi '94
+134. Toyota au CERUMO Supra '01
+135. Nissan PENNZOIL ZEXEL GT-R '01
+136. Toyota SUPERAUTOBACS APEX MR-S '00
+137. Nissan C-WEST RAZO SILVIA '01
+138. Nissan 350Z (Z33, US) '03
+139. RUF RGT '00
+140. Volkswagen New Beetle Cup Car '00
+141. Volkswagen Lupo Cup Car '00
+142. Nissan mm-R Cup Car '01
+143. Trial CELICA SS-II (ZZT231) '03
+144. Mazda BP FALKEN RX-7 (D1GP) '03
+145. Toyota VITZ RS 1.5 '00
+146. Mitsubishi COLT 1.5 Sport X Version '02
+147. Mazda DEMIO SPORT '03
+148. Honda FIT W '01
+149. Honda INTEGRA TYPE R (DC2) '98
+150. Honda CIVIC TYPE R (EK) '98
+151. Mazda RX-8 Type S '03
+152. Toyota MR2 GT-S '97
+153. Mitsubishi Lancer Evolution V GSR '98
+154. Ford Ford GT '02
+155. Spoon CIVIC TYPE R (EK) '00
+156. Spoon S2000 Race Car '00
+157. Nismo Fairlady Z Z-tune (Z33) '03
+158. BMW McLaren F1 GTR Race Car '97
+159. Ford Focus Rally Car '99
+160. Toyota MR-S S Edition '99
+161. TRD CELICA TRD Sports M (ZZT231) '00
+162. Mitsubishi Lancer Evolution IV Rally Car '97
+163. Toyota Castrol TOM'S SUPRA '00
+164. Toyota Castrol TOM'S SUPRA '01
+165. Toyota DENSO SARD SUPRA GT '00
+166. Toyota RSC Rally Raid Car
+167. Toyota SOARER 430SCV '01
+168. Toyota VITZ U Euro Sport Edition '00
+169. Mine's LANCER EVOLUTION VI '00
+170. Mine's BNR34 SKYLINE GT-R V-spec N1 base '00
+171. Honda JAZZ 1.4 DSi SE Sport '01
+172. Honda S2000 (EU) '03
+173. Mazda Mazda6 '03
+174. Mazda MX-5 (NA) '89
+175. Nissan 350Z Roadster (Z33, US) '03
+176. Nissan 240ZG (HS30) '71
+177. Toyota Yaris RS 1.5 (J) '00
+178. BMW 120i '04
+179. Pescarolo Courage - Judd GV5 Race Car '04
+180. Opel Vectra 3.2 V6 '03
+181. Suzuki Kei WORKS '02
+182. Ford Taurus SHO '98
+183. Honda CIVIC TYPE R (EP) '01
+184. Honda INTEGRA TYPE R Touring Car
+185. Honda NSX Type R '92
+186. Autobacs Garaiya '02
+187. Dome DOME-ZERO Concept '78
+188. Mazda Atenza Touring Car
+189. Mazda Roadster 1.8 RS (NB) '98
+190. Mazda SAVANNA RX-7 INFINI III (FC) '90
+191. Mitsubishi FTO Super Touring Car
+192. Mitsubishi Lancer Evolution VI GSR '99
+193. Mitsubishi STARION 4WD Rally Car '84
+194. Nissan CUBE X '98
+195. Nissan SILVIA K's (S13) '91
+196. Nissan SKYLINE GTS-t Type M (R32) '91
+197. Subaru IMPREZA Sport Wagon WRX STi Version VI '99
+198. Cadillac CIEN Concept '02
+199. Chevrolet Camaro SS '00
+200. Chevrolet Corvette C5-R (C5) '00
+201. Dodge Viper GTS R Concept '00
+202. Ford GT40 Race Car '69
+203. Ford Mustang SVT Cobra R '00
+204. Audi RS 6 '02
+205. Audi TT Coupe 1.8T quattro '00
+206. Audi Abt Audi TT-R Touring Car '02
+207. RUF 3400S '00
+208. Opel Astra Touring Car (Opel Team Phoenix) '00
+209. Opel Corsa Comfort 1.4 '01
+210. Volkswagen W12 Nardo Concept '01
+211. Fiat Coupe Turbo Plus '00
+212. Pagani Zonda C12S 7.3 '02
+213. Pagani Zonda LM Race Car
+214. Pescarolo Courage C60 - Peugeot Race Car '03
+215. Peugeot 206 CC '01
+216. Renault Sport Clio Renault Sport Trophy Race Car '00
+217. Jaguar S-TYPE R '02
+218. Jaguar XKR R Performance '02
+219. Lotus Esprit Sport 350 '00
+220. TVR Cerbera Speed 12 '00
+221. Ford (AU) 2000 Ford Falcon XR8
+222. Toyota SPRINTER TRUENO GT-APEX (S.Shigeno Ver.) '00
+223. Hyundai Clix Concept '01
+224. Hyundai Coupe FX '01
+225. Mercedes-Benz CLK Touring Car '00
+226. Fiat Barchetta Giovane Due '00
+227. Fiat Punto HGT Abarth '00
+228. Nismo Skyline GT-R S-tune (R32) '00
+229. Honda Z ACT '70
+230. Mitsubishi MIRAGE CYBORG ZR '97
+231. Nissan Be-1 '87
+232. Nissan SKYLINE Hard Top 2000 Turbo RS (R30) '83
+233. Toyota SERA '92
+234. Subaru LEGACY B4 2.0GT '03
+235. Subaru LEGACY Touring Wagon 2.0GT '03
+236. Saleen S7 '02
+237. BMW M3 GTR Race Car '01
+238. Mercedes-Benz AMG Mercedes 190 E 2.5 - 16 Evolution II Touring Car '92
+239. TVR T350C '03
+240. Volkswagen Golf IV R32 '03
+241. Alfa Romeo 155 2.5 V6 TI '93
+242. Mazda Carol 360 Deluxe '62
+243. Mazda Carol 360 Deluxe '62 (with 300.000 or more km)
+244. Opel Calibra Touring Car '94
+245. Mazda Roadster 1800 RS (NB) '00
+246. Honda NSX-R Concept '01
+247. Honda PRELUDE Si VTEC '91
+248. Amuse S2000 Street Version '04
+249. Mazda Cosmo Sport (L10B) '68
+250. Nissan R89C Race Car '89
+251. Nissan SKYLINE Hard Top 2000 RS-X Turbo C (R30) '84
+252. Subaru IMPREZA Coupe WRX typeR STi Version VI '99
+253. Chevrolet Corvette Convertible (C1) '54
+254. Chevrolet Corvette Convertible (C1) '54 (with 300.000 or more km)
+255. Dodge SRT4 '03
+256. Audi A2 1.4 '02
+257. Audi A3 3.2 quattro '03
+258. BMW 320i Touring Car '03
+259. BMW V12 LMR Race Car '99
+260. Mercedes-Benz AMG Mercedes CLK-LM Race Car '98
+261. Opel Tigra 1.6i '99
+262. Alfa Romeo GTV 3.0 V6 24V '01
+263. Lancia STRATOS Rally Car '77
+264. Lotus Esprit Turbo HC '87
+265. BMW 120d '04
+266. Toyota CELICA GT-FOUR Rally Car (ST185) '95
+267. Toyota ARISTO V300 '00
+268. Ford Ford GT '05
+269. Audi S3 '02
+270. Nissan FALKEN*GT-R Race Car '04
+271. Peugeot 206 S16 '99
+272. Nissan 350Z Concept LM Race Car
+273. Honda ACCORD Euro-R '02
+274. Honda ACCORD Euro-R '00
+275. Acura NSX Coupe '97
+276. Mitsubishi AIRTREK Turbo-R '02
+277. Alfa Romeo Spider 3.0i V6 24V '01
+278. Toyota ALTEZZA AS200 '98
+279. Toyota ALTEZZA Gita AS300 '01
+280. Toyota ALTEZZA Touring Car
+281. Toyota ALTEZZA RS200 '98
+282. Volkswagen New Beetle 2.0 '00
+283. Volkswagen New Beetle RSi '00
+284. Spyker C8 Laviolette '01
+285. Nissan CALSONIC SKYLINE '00
+286. Chevrolet Camaro LM Race Car
+287. Toyota CELICA SS-II (ZZT231) '99
+288. Honda CIVIC TYPE R (EP, EU) '01
+289. Mercedes-Benz CL 600 '00
+290. Mercedes-Benz CLK 55 AMG '00
+291. Chevrolet Corvette Z06 (C5) '00
+292. Mitsubishi CZ-3 Tarmac '01
+293. Mitsubishi CZ-3 Tarmac Rally Car
+294. Aston Martin DB7 Vantage Coupe '00
+295. Mazda DEMIO GL-X '99
+296. Lotus Elise Type 72 '01
+297. Lotus Esprit V8 SE '98
+298. Mitsubishi Lancer Evolution VI Rally Car '99
+299. Suzuki GSX-R/4 Concept '01
+300. Mitsubishi GTO Twin Turbo '98
+301. Subaru IMPREZA Coupe 22B-STi Version '98
+302. Subaru IMPREZA Super Touring Car
+303. Subaru IMPREZA Rally Car '01
+304. Subaru IMPREZA Rally Car Prototype '01
+305. Subaru IMPREZA Sedan WRX STi Version '00
+306. Infiniti FX45 Concept '02
+307. Infiniti G35 Sedan '03
+308. Mitsubishi Lancer Evolution VI RS '99
+309. Mitsubishi Lancer Evolution VI GSR T.M. '00
+310. Mitsubishi Lancer Evolution VII GT-A '02
+311. Mitsubishi Lancer Evolution VII RS '01
+312. Lexus IS 200 '98
+313. Lexus IS 300 Sport Cross '01
+314. Lexus SC 430 (EU) '01
+315. Lexus SC 430 (US) '01
+316. Nissan LOCTITE ZEXEL GT-R '00
+317. Volkswagen Lupo GTI '01
+318. Mazda Mazda6 Concept '01
+319. Mazda Mazda6 Touring Car
+320. Mini MINI COOPER '02
+321. Mini MINI ONE '02
+322. Mugen MUGEN S2000 '00
+323. Nismo GT-R LM Road Going Version '95
+324. Nismo 270R '94
+325. Honda NSX-R Prototype LM Road Car
+326. Opel Speedster '00
+327. Nissan PENNZOIL Nismo GT-R '99
+328. Nissan PRIMERA 20V (EU) '01
+329. Chrysler PT Cruiser '00
+330. Nissan SKYLINE GT-R M-spec (R34) '01
+331. Nismo Skyline GT-R R-tune (R34) '99
+332. Nissan SKYLINE GT-R V-spec (R34) '99
+333. Nissan GRAN TURISMO SKYLINE GT-R (PaceCar) '01
+334. Nissan SKYLINE GT-R V-spec II (R34) '00
+335. Nissan GT-R Concept (Tokyo Motor Show 2001)
+336. Nissan R390 GT1 Road Car '98
+337. Mazda Eunos Roadster J-Limited II (NA) '93
+338. Mazda Eunos Roadster SR-Limited (NA) '97
+339. Audi RS 4 '01
+340. Audi RS 6 Avant '02
+341. Toyota RSC '01
+342. Mazda RX-7 LM Race Car
+343. Mazda RX-7 Type R Bathurst R (FD) '01
+344. Mazda RX-7 Type RS (FD) '98
+345. Mazda RX-7 Type RZ (FD) '00
+346. Mazda RX-8 Concept (Type-I) '01
+347. Nissan SILVIA spec-R AERO (S15) '99
+348. Honda S2000 '01
+349. Honda S2000 '99
+350. Honda S2000 (US) '99
+351. Honda S2000 (EU) '99
+352. Honda S2000 (EU) '01
+353. Honda S2000 LM Race Car
+354. Honda S2000 Type V '00
+355. Honda S2000 Type V '01
+356. Honda S2000 Type V (EU) '00
+357. Honda S2000 Type V (EU) '01
+358. Honda S2000 Type V (US) '01
+359. Honda S2000 (US) '01
+360. Nissan SILVIA Varietta (S15) '00
+361. Nissan SKYLINE Sedan 300GT '01
+362. Pontiac Solstice Coupe Concept '02
+363. Spoon S2000 '00
+364. Lister Storm V12 Race Car '99
+365. Lancia STRATOS '73
+366. Toyota SUPRA SZ-R '97
+367. Tom's X540 CHASER '00
+368. Vauxhall Astra Super Touring Car '00
+369. Vauxhall Calibra Super Touring Car '94
+370. Vauxhall Corsa Comfort 1.4 '01
+371. Vauxhall VX220 '00
+372. Nissan XANAVI HIROTO GT-R '01
+373. Jaguar XJ220 '92
+374. Jaguar XKR Coupe '99
+375. Citroën Xsara Rally Car '99
+376. Nissan Fairlady Z 300ZX Ver.R TT 2by2 (Z32) '98
+377. Nissan Fairlady Z 300ZX Ver.S TT 2seater (Z32) '98
+378. Pagani Zonda C12 '00
+379. Pagani Zonda C12S '00
+380. Tommykaira ZZII '00
+381. Tommykaira ZZ-S '00
+382. Hyundai HCD6 Concept '01
+383. Hyundai Tiburon GT '01
+384. Hyundai Tuscani '01
+385. Nissan 300ZX 2by2 (Z32) '98
+386. Mazda MX-5 1800 RS (NB, J) '00
+387. Mazda MX-5 1.8 RS (NB, J) '98
+388. Mercedes-Benz SL 500 (R230) '02
+389. Jay Leno Tank Car '03
+390. BMW M3 GTR '03
+391. Buick GNX '87
+392. Callaway C12 '03
+393. Chevrolet Silverado SST Concept '02
+394. Chevrolet Camaro SS '69
+395. Citroën Xsara VTR '03
+396. Dodge Viper SRT10 '03
+397. Eagle Talon Esi '97
+398. Lotus Carlton '90
+399. Lotus Elan S1 '62
+400. Lotus Elan S1 '62 (with 300.000 or more km)
+401. Mercedes-Benz E 55 AMG '02
+402. Mercedes-Benz 190 E 2.5 - 16 Evolution II '91
+403. Mercury Cougar XR-7 '67
+404. MG TF160 '03
+405. Peugeot 205 Turbo 16 Rally Car '85
+406. Peugeot 205 Turbo 16 '85
+407. Pontiac GTO 5.7 Coupe '04
+408. RUF BTR '86
+409. Triumph Spitfire 1500 '74
+410. Toyota SOARER 2.5GT-T '97
+411. Toyota VOLTZ S '02
+412. Toyota COROLLA RUNX Z AEROTOURER '02
+413. Toyota WEDSSPORT CELICA '03
+414. Mitsubishi PAJERO Evolution Rally Raid Car '03
+415. Alfa Romeo 166 2.5 V6 24V Sportronic '98
+416. Citroën C3 1.6 '02
+417. Daihatsu Copen Detachable Top '02
+418. Honda CIVIC 1500 3door 25i '83
+419. Honda LIFE STEP VAN '72
+420. Honda ELEMENT '03
+421. Honda BEAT Version F '92
+422. Honda BEAT Version Z '93
+423. Jaguar E-TYPE Coupe '61
+424. Jaguar E-TYPE Coupe '61 (with 300.000 or more km)
+425. Mazda RX-8 Type E '03
+426. RUF CTR "Yellow Bird" '87
+427. Suzuki ALTO LAPIN Turbo '02
+428. Toyota CALDINA GT-FOUR '02
+429. Toyota 2000GT '67
+430. Volkswagen Lupo1.4 '02
+431. Volvo S60 T-5 Sport '03
+432. Nissan 200SX '96
+433. Nissan 240SX '96
+434. Peugeot 206 Rally Car '99
+435. Renault Sport Lutecia Renault Sport V6 24V '01
+436. Renault Sport Lutecia Renault Sport Trophy Race Car '00
+437. Renault Sport Lutecia Renault Sport 2.0 16V '02
+438. Mazda Protegé '02
+439. Acura HSC Concept '04
+440. Mazda 323F '93
+441. Daihatsu Cuore TR-XX Avanzato R (J) '97
+442. Vauxhall Vectra 3.2 V6 '03
+443. Vauxhall Tigra 1.6i '99
+444. Mazda MX-5 Miata (NA) '89
+445. Mazda MX-5 Miata J-Limited (NA, J) '91
+446. Mazda MX-5 J-Limited (NA, J) '91
+447. Mazda MX-5 Miata J-Limited II (NA, J) '93
+448. Mazda MX-5 J-Limited II (NA, J) '93
+449. Mazda MX-5 Miata SR-Limited (NA, J) '97
+450. Mazda MX-5 SR-Limited (NA, J) '97
+451. Mazda MX-5 Miata 1.8 RS (NB, J) '98
+452. Mazda MX-5 Miata 1800 RS (NB, J) '00
+453. Nissan 200SX (S14) '96
+454. Nissan 240SX (S14) '96
+455. Honda S2000 Type V (US) '00
+456. Daihatsu SIRION X4 (J) '00
+457. Mazda 110S (L10B) '68
+458. Alfa Romeo Giulia Sprint Speciale '63
+459. Audi quattro '82
+460. BMW M3 '04
+461. BMW M Coupe '98
+462. Dodge Charger 440 R/T '70
+463. Dodge Charger 440 R/T '70 (with 300.000 or more km)
+464. Ford Mustang GT '05
+465. Honda Gathers Drider CIVIC Race Car '98
+466. Honda S800 RSC Race Car '68
+467. Jensen Interceptor MkIII '74
+468. Marcos Mini Marcos GT '70
+469. MG MGF '97
+470. Plymouth Superbird '70
+471. Renault Megane 2.0 16V '03
+472. Mazda Atenza Sports 23Z '03
+473. Acura CL 3.2 Type-S '03
+474. Acura RSX Type-S '04
+475. Alfa Romeo Spider 1600 Duetto '66
+476. Alpine A310 1600VE '73
+477. BMW 330i '05
+478. Chevrolet Camaro IROC-Z Concept '88
+479. Cizeta V16T '94
+480. Daihatsu MOVE Custom RS Limited '02
+481. Dodge Charger Super Bee 426 Hemi '71
+482. Ford RS200 '84
+483. Ford RS200 Rally Car '85
+484. Honda CIVIC 1500 3door CX '79
+485. Honda MUGEN MOTUL CIVIC Si Race Car '87
+486. Honda CIVIC SiR-II (EG) '91
+487. Honda CIVIC SiR-II (EG) '92
+488. Honda CIVIC SiR-II (EG) '95
+489. Honda CR-X del Sol SiR '92
+490. Honda INTEGRA TYPE R (DC2) '95
+491. Honda INTEGRA TYPE R (DC2) '99
+492. Honda S2000 Type V '03
+493. Honda S500 '63
+494. Honda S500 '63 (with 300.000 or more km)
+495. Honda S600 '64
+496. Isuzu Bellett 1600 GT-R '69
+497. Mazda Eunos Roadster S-Special Type I (NA) '95
+498. Mazda RX-8 '03
+499. Mazda SAVANNA RX-7 GT-Limited (FC) '85
+500. Mitsubishi GALANT 2.0 DOHC Turbo VR-4 '89
+501. Mitsubishi GALANT GTO MR '70
+502. Mitsubishi Lancer EX 1800GSR IC Turbo '83
+503. Mitsubishi Lancer Evolution VI RS T.M. '00
+504. Mitsubishi Lancer Evolution VIII RS '03
+505. Mitsubishi MINICA DANGAN ZZ '89
+506. Mitsubishi MIRAGE 1400GLX '78
+507. Mitsubishi PAJERO Rally Raid Car '85
+508. Nissan Fairlady 2000 (SR311) '68
+509. Nissan Fairlady Z 280Z-L 2seater (S130) '78
+510. Nissan Fairlady Z 300ZX (Z31) '83
+511. Nissan MOTUL PITWORK Z '04
+512. Nissan PAO '89
+513. Nissan SILVIA (CSP311) '65
+514. Nissan SILVIA 240RS (S110) '83
+515. Nissan SKYLINE 1500Deluxe (S50D-1) '63
+516. Nissan SKYLINE 1500Deluxe (S50D-1) '63 (with 300.000 or more km)
+517. Nissan SKYLINE Sedan 350GT-8 '02
+518. Nissan SKYLINE GT-R (R34) '99
+519. Nissan SKYLINE GT-R (R34) '00
+520. Nissan SKYLINE GT-R M.N.P II (R34) '99
+521. Nissan SKYLINE GT-R M.N.P III (R34) '00
+522. Nissan SKYLINE GT-R V-spec (R33) '95
+523. Nissan SKYLINE GT-R V-spec (R33) '96
+524. Nissan SKYLINE GT-R V-spec II N1 (R34) '00
+525. Nissan SKYLINE GT-R V-spec N1 (R34) '99
+526. Nissan SKYLINE Sport Coupe (BLRA-3) '62
+527. Nissan STAGEA 25t RS FOUR S '98
+528. Nissan STAGEA 260RS AutechVersion '98
+529. Renault AVANTIME '02
+530. Shelby GT350R '65
+531. Shelby Series One Super Charged '03
+532. Subaru IMPREZA Sedan WRX STi Version II '95
+533. Subaru IMPREZA Sedan WRX STi Version III '96
+534. Subaru IMPREZA Sedan WRX STi Version IV '97
+535. Subaru IMPREZA Sedan WRX STi Version V '98
+536. Suzuki WAGON R RR '98
+537. Toyota MINOLTA Toyota 88C-V Race Car '89
+538. Toyota STARLET Glanza V '97
+539. Toyota Toyota 7 Race Car '70
+540. Toyota VITZ F '99
+541. Volvo 240 GLT Estate '88
+542. Toyota GT-ONE Race Car (TS020) '99
+543. Toyota Yaris U Euro Sport Edition (J) '00
+544. Toyota Yaris F (J) '99
+545. Acura DN-X Concept '02
+546. Acura INTEGRA TYPE R '01
+547. Chrysler Prowler '02
+548. Citroën Xantia 3.0i V6 Exclusive '00
+549. Daihatsu MOVE CX '95
+550. Dodge Viper GTS '99
+551. Ford Escort Rally Car '98
+552. Honda CR-X SiR '90
+553. Honda DUALNOTE Concept '01
+554. Jaguar XJ220 LM Race Car
+555. Lancia DELTA HF Integrale Rally Car '92
+556. Lotus Elise Sport 190 '98
+557. Lotus Europa Special '71
+558. Lotus Motor Sport Elise '99
+559. Mitsubishi LEGNUM VR-4 Type V '98
+560. Nismo 400R '96
+561. Nissan BLUEBIRD Hardtop 1800SSS (910) '79
+562. Nissan BLUEBIRD Rally Car (510) '69
+563. Nissan EXA CANOPY L.A.Version Type S '88
+564. Nissan GRAN TURISMO SKYLINE GT-R '01
+565. Nissan March 12c 5door '03
+566. Nissan MICRA '03
+567. Peugeot 106 S16 '03
+568. Peugeot coupé 406 3.0 V6 '98
+569. RUF CTR2 '96
+570. Subaru IMPREZA Sport Wagon STi '00
+571. Toyota CELICA GT-FOUR (ST205) '98
+572. Toyota COROLLA Rally Car '98
+573. Toyota MR2 G-Limited '97
+574. Toyota SUPRA 2.5GT Twin Turbo R '90
+575. TVR Griffith 500 '94
+576. Volkswagen Karmann Ghia Coupe (Type-1) '68
+577. Volkswagen Polo GTI '01
+578. Mazda Eunos Roadster VR-Limited (NA) '95
+579. Mazda Eunos Roadster V-Special Type II (NA) '93
+580. Mazda MX-5 Miata VR-Limited (NA, J) '95
+581. Mazda MX-5 Miata V-Special Type II (NA, J) '93
+582. Mazda MX-5 VR-Limited (NA, J) '95
+583. Mazda MX-5 V-Special Type II (NA, J) '93
+584. Mercedes-Benz A 160 Avantgarde '98
+585. Mercedes-Benz SLK 230 Kompressor '98
+586. Subaru IMPREZA Sedan WRX STi Version VI '99
+587. Aston Martin Vanquish '04
+588. Mitsubishi Lancer Evolution VIII MR GSR '04
+589. Ginetta G4 '64
+590. Honda S2000 (US) '04
+591. Renault Megane 2.0 IDE Coupe '00
+592. Mini Cooper 1.3i '98
+593. Chevrolet Corvette Z06 (C2) Race Car '63
+594. Alfa Romeo 156 2.5 V6 24V '98
+595. Aston Martin V8 Vantage '99
+596. Audi S4 '98
+597. Suzuki ESCUDO Dirt Trial Car '98
+598. Toyota CARINA ED 2.0 X 4WS '89
+599. Toyota SPRINTER TRUENO GT-APEX (AE86) '83
+600. Toyota CELICA GT-R (ST183, 4WS) '91
+601. BMW M3 CSL '03
+602. Peugeot 307 XSi '04
+603. TVR V8S '91
+604. Mercedes-Benz SL 500 (R129) '98
+605. Mazda Mazdaspeed Atenza '05
+606. Chevrolet Corvette Coupe (C2) '63
+607. Daihatsu MOVE SR-XX 4WD '97
+608. HKS GENKI HYPER SILVIA RS2 (D1GP) '04
+609. Honda CIVIC TYPE R (EP) '04
+610. Honda NSX '90
+611. Honda NSX '01
+612. Honda NSX Type S '97
+613. Honda NSX Type S '01
+614. Honda NSX Type S Zero '99
+615. Honda PRELUDE Type S '98
+616. Lotus Esprit V8 GT '98
+617. Mazda Cosmo Sport (L10A) '67
+618. Mercedes-Benz SL 600 (R230) '04
+619. Mercedes-Benz SL 65 AMG (R230) '04
+620. Nissan SILVIA K's AERO (S14) '93
+621. Nissan SKYLINE 2000GT-R (KPGC110) '73
+622. Nissan SKYLINE Hard Top 2000GT-R (KPGC10) '70
+623. Peugeot 106 Rallye '03
+624. Spoon INTEGRA TYPE R (DC2) '99
+625. Suzuki MR Wagon Sport '04
+626. Toyota CELICA 2000GT-FOUR (ST165) '86
+627. Toyota MR2 1600 G '86
+628. Honda INTEGRA TYPE R (DC5) '03
+629. Mazda 110S (L10A) '67
+630. Gillet Vertigo Race Car '04
+631. Audi S4 '03
+632. Infiniti G35 COUPE '03
+633. Volkswagen Bora V6 4MOTION '01
+634. Nissan Fairlady Z Version S (Z33) '02
+635. Mazda Mazda6 5-door '03
+636. Nissan SKYLINE GT-R M-spec Nür (R34) '02
+637. Acura CL 3.2 Type-S '01
+638. Mazda MX-5 Miata S-Special Type I (NA, J) '95
+639. Mazda MX-5 S-Special Type I (NA, J) '95
+640. Blitz BLITZ ER34 D1 SPEC (D1GP) '04
+641. Nissan 300ZX 2seater (Z32) '89
+642. BMW M5 '05
+643. Honda PRELUDE SiR S spec '98
+644. Nismo Fairlady Z S-tune (Z33) '02
+645. Hommell Berlinette R/S Coupe '99
+646. Infiniti G20 '90
+647. Fiat 500 L '69
+648. Fiat 500 R '72
+649. Audi A4 Touring Car '04
+650. RE Amemiya AMEMIYA ASPARADRINK RX7 '04
+651. Lotus Elise 111S '03
+652. Nissan Fairlady Z Version ST (Z33) '02
+653. Mitsubishi FTO GP Version R '99
+654. Mitsubishi FTO GPX '94
+655. Mitsubishi FTO GPX '97
+656. Mitsubishi FTO GPX '99
+657. Mitsubishi FTO GR '94
+658. Mitsubishi FTO GR '97
+659. Mitsubishi GTO SR '95
+660. Mitsubishi GTO SR '96
+661. Mitsubishi GTO SR '98
+662. Mitsubishi GTO Twin Turbo '96
+663. Mitsubishi GTO Twin Turbo MR '95
+664. Mitsubishi GTO Twin Turbo MR '98
+665. Mitsubishi Lancer 1600 GSR Rally Car '74
+666. Audi Le Mans quattro '03
+667. Holden Monaro CV8 '04
+668. Daihatsu MOVE SR-XX 2WD '97
+669. Toyota MR-S V Edition (6MT) '02
+670. Honda NSX '93
+671. Honda NSX '95
+672. Honda NSX '97
+673. Honda NSX '99
+674. Honda NSX Type S '99
+675. Opel Speedster Turbo '00
+676. Opera Performance S2000 '04
+677. Nissan SKYLINE GT-R (R32) '89
+678. Nissan SKYLINE GT-R (R32) '91
+679. Nissan SKYLINE GT-R N1 (R32) '91
+680. Nissan SKYLINE GT-R V-spec (R32) '93
+681. Nissan SKYLINE GT-R V-spec N1 (R32) '93
+682. Nissan SKYLINE GTS25 Type S (R32) '91
+683. Nissan SKYLINE GTS-t Type M (R32) '89
+684. Nissan SKYLINE GT-R (R33) '95
+685. Nissan SKYLINE GT-R (R33) '96
+686. Nissan SKYLINE GT-R (R33) '97
+687. Nissan SKYLINE GT-R N1 (R33) '95
+688. Nissan SKYLINE GT-R V-spec LM Limited (R33) '96
+689. Mazda RX-7 Type RS (FD) '00
+690. Nissan SILVIA Q's (S13) '88
+691. Nissan SILVIA Q's (S13) '91
+692. Nissan SILVIA Q's AERO (S14) '93
+693. Nissan SILVIA Q's AERO (S14) '96
+694. Nissan SILVIA spec-S AERO (S15) '99
+695. Nissan SKYLINE 2000GT-B (S54A) '67
+696. Mercedes-Benz SL 600 (R129) '98
+697. Ford SVT F-150 Lightning '03
+698. Toyota Tacoma X-Runner '04
+699. Acura NSX '04
+700. Daihatsu STORIA CX 2WD '98
+701. Daihatsu STORIA CX 4WD '98
+702. Mitsubishi Lancer Evolution III GSR '95
+703. Subaru IMPREZA Sedan WRX STi spec C '04
+704. Suzuki ALTO WORKS RS-Z '97
+705. Caterham Seven Fireblade '02
+706. Citroën 2CV Type A '54
+707. Citroën 2CV Type A '54 (with 300.000 or more km)
+708. Subaru SUBARU 360 '58
+709. Subaru SUBARU 360 '58 (with 300.000 or more km)
+710. AC Cars 427 S/C '66
+711. Amuse Carbon R (R34) '04
+712. Amuse S2000 GT1 '04
+713. Nissan CALSONIC SKYLINE GT-R Race Car '93
+714. Chevrolet Corvette ZR-1 (C4) '90
+715. Aston Martin DB9 Coupe '03
+716. Volkswagen Golf I GTI '76
+717. Seat Ibiza Cupra '04
+718. Mitsubishi Lancer Evolution Super Rally Car '03
+719. Land Rover Range Stormer Concept '04
+720. Lexus IS 200 GT-1 Race Car '04
+721. Audi R8 Race Car '01
+722. Dodge RAM 1500 LARAMIE Hemi Quad Cab '04
+723. Mercedes-Benz SLR McLaren '03
+724. Holden Commodore SS '04
+725. Nissan OPTION Stream Z '04
+726. BMW 2002 Turbo '73
+727. Peugeot 206 RC '03
+728. Renault Sport Clio Renault Sport V6 Phase 2 '03
+729. Ford Focus ST170 '03
+730. Mitsubishi Lancer Evolution II GSR '94
+731. Toyota VITZ RS Turbo '02
+732. Mazda éfini RX-7 Type R (FD) '93
+733. Mazda éfini RX-7 Type R-S (FD) '95
+734. Mazda éfini RX-7 Type RS (FD) '96
+735. Mazda RX-7 Type RS-R (FD) '97
+736. Mazda éfini RX-7 Type RZ (FD) '92
+737. Mazda éfini RX-7 Type RZ (FD) '93
+738. Mazda éfini RX-7 Type RZ (FD) '95
+739. Mazda éfini RX-7 Type RZ (FD) '96
+740. Renault Sport Lutecia Renault Sport V6 Phase2 '03
+741. Opera Performance 350Z '04
+742. Vauxhall VX220 Turbo '00
+743. Toyota Yaris RS Turbo (J) '02
+744. Mercedes-Benz Sauber Mercedes C9 Race Car '89
+745. Honda ACCORD Coupe '88
+746. Honda ACCORD Coupe EX '03
+747. Mazda RX-7 GT-LIMITED (FC, J) '85
+748. Mazda RX-7 GT-X (FC, J) '90
+749. Mazda RX-7 Type R (FD, J) '91
+750. Mazda RX-7 Type R (FD, J) '93
+751. Mazda RX-7 Type RS (FD, J) '96
+752. Mazda RX-7 Type R-S (FD, J) '95
+753. Mazda RX-7 Type RZ (FD, J) '92
+754. Mazda RX-7 Type RZ (FD, J) '93
+755. Mazda RX-7 Type RZ (FD, J) '95
+756. Mazda RX-7 Type RZ (FD, J) '96
+757. Mitsubishi 3000GT MR (J) '95
+758. Mitsubishi 3000GT MR (J) '98
+759. Mitsubishi 3000GT SL (J) '95
+760. Mitsubishi 3000GT SL (J) '96
+761. Mitsubishi 3000GT SL (J) '98
+762. Mitsubishi 3000GT SR (J) '95
+763. Mitsubishi 3000GT SR (J) '96
+764. Mitsubishi 3000GT SR (J) '98
+765. Mitsubishi 3000GT VR-4 (J) '98
+766. Mitsubishi 3000GT VR-4 Turbo (J) '98
+767. Mitsubishi 3000GT VR-4 Turbo (J) '95
+768. Mitsubishi 3000GT VR-4 Turbo (J) '96
+769. DMC DeLorean S2 '04
+770. Daihatsu SIRION CX 2WD (J) '98
+771. Daihatsu SIRION CX 4WD (J) '98
+772. Lexus GS 300 '91
+773. Lexus GS 300 '00
+774. Lexus GS 300 Vertex Edition (J) '00
+775. Lexus SC 300 '97
+776. Scion xA '03
+777. Scion xB '03
+778. Amuse S2000 R1 '04
+779. Ford Ford GT LM Race Car Spec II
+780. Nissan 350Z (Z33, EU) '03
+781. Nissan 350Z Roadster (Z33, EU) '03
+782. Toyota SPORTS 800 '65
+783. Toyota SPORTS 800 '65 (with 300.000 or more km)
+784. Polyphony Digital Formula Gran Turismo
+785. Toyota MR2 Spyder (6MT) '02
+786. Toyota MR2 Spyder '99
+787. Lexus IS 200 (J) '98
+788. Nissan 350Z Gran Turismo 4 Ltd. (Z33) '05
+789. Mazda Roadster 1600 NR-A (NB) '04
+790. Mazda Roadster 1800 RS (NB) '04
+791. Ford Ford GT (No Stripe) '05
+792. Mazda MX-Crossport Concept '05
+793. Mazda MX-5 Miata 1800 RS (NB, J) '04
+794. Mazda MX-5 1800 RS (NB, J) '04
+795. Mazda MX-5 Miata 1600 NR-A (NB, J) '04
+796. Mazda MX-5 1600 NR-A (NB, J) '04
+797. Hyundai Tiburon Turbulence '99
+798. Hyundai Tuscani CCS '03
+799. Peugeot 905 Race Car '92
+800. Chaparral 2D Race Car '67
+801. Chaparral 2J Race Car '70
+802. Chrysler 300C '05
+803. Alfa Romeo GT 3.2 V6 24V '04
+804. Audi Nuvolari quattro '03
+805. Audi Pikes Peak quattro '03
+806. Oullim Motors SPIRRA 4.6 V8 '04
+807. Mitsubishi ECLIPSE GT '06
+808. Audi R8 Race Car (Audi PlayStation Team ORECA) '05
+809. Pescarolo C60 Hybride - Judd Race Car '05
+810. Lamborghini Countach 25th Anniversary '88
+811. Audi R8 LMS Race Car '09
+812. Bugatti Veyron 16.4 '09
+813. Lamborghini Countach LP400 '74
+814. Audi R8 LMS Race Car (Team PlayStation) '09
+815. Mazda Furai Concept '08
+816. Mazda Axela 23S '03
+817. Jaguar XJR-9 LM Race Car '88
+818. Nissan R92CP Race Car '92
+819. Bentley Speed 8 Race Car '03
+820. Lamborghini NOMAD Diablo GT-1 '00
