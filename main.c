@@ -2230,7 +2230,7 @@ char *printInfo(const uint32_t i) {
     const int32_t price = intNum + (num - intNum > 0.49999);
     const char *color = colors[colorCodes[colorIndex]];
     char *output = malloc(200);
-    snprintf(output, 200, "0x%08X\t%d\t%d\t%s\t%s\t%d\t%d\t%s\n", i, brand, model, odo, price, color);
+    snprintf(output, 200, "0x%08X\t%s\t%s\t%d\t%d\t%s\n", i, brand, model, odo, price, color);
     return output;
 }
 
